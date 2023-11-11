@@ -2,7 +2,7 @@
     <img width="1412" src="https://cdn.aleo.org/leo/banner.png">
 </p>
 
-<h1 align="center">The Leo Programming Language</h1>
+<h1 align="center">The Leo Programming Languge</h1>
 
 <p align="center">
     <a href="https://circleci.com/gh/AleoHQ/leo"><img src="https://circleci.com/gh/AleoHQ/leo.svg?style=svg&circle-token=00960191919c40be0774e00ce8f7fa1fcaa20c00"></a>
